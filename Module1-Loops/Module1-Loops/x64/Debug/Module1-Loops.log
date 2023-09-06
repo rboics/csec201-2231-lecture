@@ -1,0 +1,4 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.cpp
+R:\GitHub\csec201-2231-lecture\Module1-Loops\Module1-Loops\Source.cpp(12,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Module1-Loops.vcxproj -> R:\GitHub\csec201-2231-lecture\Module1-Loops\x64\Debug\Module1-Loops.exe
