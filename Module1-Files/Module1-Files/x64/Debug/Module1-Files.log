@@ -1,0 +1,5 @@
+﻿  Source.c
+D:\csec201-2231-lecture\Module1-Files\Module1-Files\Source.c(25,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\csec201-2231-lecture\Module1-Files\Module1-Files\Source.c(29,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\csec201-2231-lecture\Module1-Files\Module1-Files\Source.c(32,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\csec201-2231-lecture\Module1-Files\Module1-Files\Source.c(55,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
